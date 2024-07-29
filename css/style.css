@@ -5,7 +5,7 @@
 }
 
 
-/* @font-face {
+@font-face {
     font-family: 'MaaxMonoTrial';
     src: url('/font/MaaxMonoTrial-Regular.otf') format('opentype');
     font-weight: normal;
@@ -31,16 +31,16 @@
     src: url('/font/MaaxMonoTrial-Italic.otf') format('.otf');
     font-weight: bold;
     font-style: italic;
-} */
+}
 
 body{
-	/* font-family: 'MaaxMonoTrial'; */
-    font-family: "IBM Plex Mono", monospace;
+	font-family: 'MaaxMonoTrial';
+    /* font-family: "IBM Plex Mono", monospace; */
 	margin: 5px;
     padding: 0px;
 
 	font-size: 12px;
-    font-weight: 300;
+    font-weight:  normal;
 	font-style: normal;
 	line-height: 1.5;
 	text-align: left;

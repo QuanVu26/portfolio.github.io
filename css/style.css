@@ -7,28 +7,28 @@
 
 @font-face {
     font-family: 'MaaxMonoTrial';
-    src: url('/font/MaaxMonoTrial-Regular.otf') format('opentype');
+    src: url('/font/MaaxMonoTrial-Regular.otf') format('.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MaaxMonoTrial';
-    src: url('/font/MaaxMonoTrial-BoldItalic.otf') format('opentype');
+    src: url('/font/MaaxMonoTrial-BoldItalic.otf') format('.otf');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MaaxMonoTrial';
-    src: url('/font/MaaxMonoTrial-BoldItalic.otf') format('opentype');
+    src: url('/font/MaaxMonoTrial-BoldItalic.otf') format('.otf');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'MaaxMonoTrial';
-    src: url('/font/MaaxMonoTrial-Italic.otf') format('opentype');
+    src: url('/font/MaaxMonoTrial-Italic.otf') format('.otf');
     font-weight: bold;
     font-style: italic;
 }
